@@ -1,6 +1,6 @@
 ### Oiê, Vitória aqui! 🦊
 <div>
-<img align="right" alt="Desenho-Vitória-e-Gatinhos" src="https://i.picasion.com/pic92/48d461c5397556178628436289f4cbe8.gif" width="300" height="300" border="0" alt="https://picasion.com/">
+<img align="right" alt="Desenho-Vitória-e-Gatinhos" src="https://i.picasion.com/pic92/9de98ff45cc9603b9674ad30b7a9b361.gif" width="300" height="300" border="0" alt="https://picasion.com/">
 </div>
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, JS, Apex... 
