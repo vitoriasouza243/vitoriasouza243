@@ -38,4 +38,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
   
-![snake gif](https://github.com/vitoriasouza243/vitoriasouza243/blob/output/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://github.com/vitoriasouza243/vitoriasouza243/blob/output/github-contribution-grid-snake.svg)
