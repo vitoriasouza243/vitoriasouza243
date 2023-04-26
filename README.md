@@ -40,3 +40,5 @@
   <img align="center" alt="gif-ondas" src="https://media0.giphy.com/media/3ohhwJlKHGchQUtvBS/giphy.gif" width="1020px" height="5em" border="0">
   
 ![Snake animation](https://github.com/vitoriasouza243/vitoriasouza243/blob/output/github-contribution-grid-snake.svg)
+
+ 
