@@ -16,7 +16,7 @@
 <div>
   <a href="https://github.com/vitoriasouza243">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriasouza243&show_icons=true&theme=radical">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasouza243&layout=compact)](https://github.com/vitoriasouza243/github-readme-statsshow_icons=true&theme=radical">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasouza243&hide_progress=true__icons=true&theme=radical">
 </div>
 
 <img align="center" alt="gif-ondas" src="https://media0.giphy.com/media/3ohhwJlKHGchQUtvBS/giphy.gif" width="1020px" height="5em" border="0">
